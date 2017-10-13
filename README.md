@@ -1,1 +1,0 @@
-# gentoo_conf_amd
