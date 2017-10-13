@@ -31,7 +31,6 @@ sys-devel/gcc
 sys-fs/btrfs-progs
 sys-fs/ddrescue
 sys-fs/dosfstools
-sys-fs/mtpfs
 sys-fs/ntfs3g
 sys-fs/xfsprogs
 sys-kernel/gentoo-sources
